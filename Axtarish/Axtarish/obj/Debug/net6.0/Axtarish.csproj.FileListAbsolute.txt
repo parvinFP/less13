@@ -1,0 +1,15 @@
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.csproj.AssemblyReference.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.AssemblyInfoInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.AssemblyInfo.cs
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.csproj.CoreCompileInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\bin\Debug\net6.0\Axtarish.exe
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\bin\Debug\net6.0\Axtarish.deps.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\bin\Debug\net6.0\Axtarish.runtimeconfig.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\bin\Debug\net6.0\Axtarish.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\bin\Debug\net6.0\ref\Axtarish.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\bin\Debug\net6.0\Axtarish.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\ref\Axtarish.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\Axtarish\Axtarish\obj\Debug\net6.0\Axtarish.genruntimeconfig.cache

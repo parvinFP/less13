@@ -1,0 +1,15 @@
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\bin\Debug\net6.0\PewPew.exe
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\bin\Debug\net6.0\PewPew.deps.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\bin\Debug\net6.0\PewPew.runtimeconfig.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\bin\Debug\net6.0\PewPew.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\bin\Debug\net6.0\ref\PewPew.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\bin\Debug\net6.0\PewPew.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.csproj.AssemblyReference.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.AssemblyInfoInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.AssemblyInfo.cs
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.csproj.CoreCompileInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\ref\PewPew.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\PewPew\PewPew\obj\Debug\net6.0\PewPew.genruntimeconfig.cache

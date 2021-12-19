@@ -1,0 +1,15 @@
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.exe
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.deps.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.runtimeconfig.json
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\bin\Debug\net6.0\ref\Vehicle.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfo.cs
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\ref\Vehicle.dll
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.pdb
+C:\Users\Parvin\Desktop\OnlyLessonPro\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.genruntimeconfig.cache
